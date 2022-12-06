@@ -26,6 +26,7 @@ body {
 
 .button-area {
     margin-left: 150px;
+    margin-right: 150px;
     margin-top: 50px;
     
     padding-left: 40px;
@@ -40,5 +41,16 @@ body {
 }
 
 .text-area {
-    
+    margin-left: 150px;
+    margin-right: 150px;
+    margin-top: 5px;
+
+    padding-left: 40px;
+    padding-top: 20px;
+    padding-bottom: 20px;
+
+    background-color: white;
+
+    border-bottom-left-radius: 10px;
+    border-bottom-right-radius: 10px;
 }
