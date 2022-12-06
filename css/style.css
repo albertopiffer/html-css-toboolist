@@ -1,0 +1,25 @@
+* {
+	box-sizing: border-box;
+	padding: 0;
+	margin: 0;
+}
+
+body {
+	background-color: #f6f8f9;
+}
+
+.header-m {
+    background-color: white;
+    padding: 10px 20px 10px;
+}
+
+.t-image{
+    display: inline-block;
+    vertical-align: middle;
+}
+
+.title {
+    display: inline-block;
+    font-family: sans-serif;
+    vertical-align: middle;
+}
